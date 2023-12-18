@@ -1,5 +1,5 @@
 ### Hola 😊👋
-Soy Clara Sacedón Ortega, apasionada Ingeniera Informática.  
+Soy Clara Sacedón Ortega, apasionada Ingeniera Informática muy interesada en gestión de proyectos, desarrollo web y computación en la nube. Me encanta explorar nuevas tecnologías y aprender continuamente para mejorar mis habilidades.
 
 [**¡Descubre más sobre mí!**](https://clarasacedon.netlify.app/)
 
@@ -15,4 +15,8 @@ Soy Clara Sacedón Ortega, apasionada Ingeniera Informática.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)
-![Atlassian](https://img.shields.io/badge/Atlassian-0052CC?style=for-the-badge&logo=atlassian&logoColor=white&labelColor=101010)
+![Atlassian](https://img.shields.io/badge/Atlassian-0052CC?style=for-the-badge&logo=atlassian&logoColor=white&labelColor=101010)    
+
+¡Gracias por visitar mi perfil! Estoy emocionada por contribuir al mundo del desarrollo y la tecnología.
+
+<!-- [![Mis estadísticas en GitHub](https://github-readme-stats.vercel.app/api?username=clarasacedon&show_icons=true&count_private=true)](https://github.com/clarasacedon) -->
